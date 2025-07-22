@@ -22,4 +22,4 @@
 ## 📚 Sobre mim
 
 - Estou sempre buscando aprender coisas novas    
-- Tenho interesse em desenvolvimento **web**, **back-end** e **fullstack**
+- Tenho interesse em **desenvolvimento web**, **back-end** e **banco de dados**
